@@ -24,6 +24,7 @@ Local Weather Station
 
   - Using the OpenWeatherMap API, gives local weather information along with a brief description of the weather.
   - Gives Wind Information and Outside Air Tempreture & Humidity in both Imperial and Metric Units.
+  - Requires Constant Internet Connection, own API Key and own Location.
 
 Local Tempreture Sensor
 
