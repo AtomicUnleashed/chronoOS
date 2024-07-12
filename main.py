@@ -110,7 +110,7 @@ def get_apidata():
 def startup():
     #PLACEHOLDER SPLASH TEXT
     oled.text("Welcome to", 20, 10)
-    oled.text("watchOS", 33, 20)
+    oled.text("chronoOS", 30, 20)
     oled.text("'Aurora'", 30, 30)
     oled.text("By AT0MIC, 2024", 0, 45)
     oled.show()
